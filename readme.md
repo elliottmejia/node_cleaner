@@ -10,4 +10,6 @@ I am no expert on TUI and wrote this in a few hours, so feel free to leave issue
 
 **I am not responsible for your lack of remote backups if you hit an edge case!**
 
+Mark for deletion with space bar. use j and k to go up and down or arrow keys if you are lame like that.
+
 <img width="715" height="322" alt="Screenshot 2026-02-22 at 5 13 57 PM" src="https://github.com/user-attachments/assets/a998f4db-e4a6-44f8-afc8-b1088ccd1a0c" />
