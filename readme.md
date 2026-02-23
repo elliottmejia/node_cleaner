@@ -9,3 +9,5 @@ Only uses native packages, so you're completely fine to just run it with python3
 I am no expert on TUI and wrote this in a few hours, so feel free to leave issues if any problems arise. 
 
 **I am not responsible for your lack of remote backups if you hit an edge case!**
+
+<img width="715" height="322" alt="Screenshot 2026-02-22 at 5 13 57 PM" src="https://github.com/user-attachments/assets/a998f4db-e4a6-44f8-afc8-b1088ccd1a0c" />
