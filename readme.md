@@ -4,4 +4,4 @@ A curses-based terminal application that scans all folders in the working direct
 
 This cleaned up about 30gb of space off of my computer!
 
-To run, install from requirements.txt
+Only uses native packages, so you're completely fine to just run it with python3.
