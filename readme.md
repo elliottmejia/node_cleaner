@@ -8,7 +8,7 @@ Only uses native packages, so you're completely fine to just run it with python3
 
 I am no expert on TUI and wrote this in a few hours, so feel free to leave issues if any problems arise. 
 
-**I am not responsible for your lack of remote backups if you hit an edge case!**
+**Make sure to back up anything that is incredibly important. This has not been widely tested, and remains untested on anything but MacOS.**
 
 Mark for deletion with space bar. use j and k to go up and down or arrow keys if you are lame like that.
 
